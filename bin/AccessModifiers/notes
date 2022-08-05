@@ -1,0 +1,13 @@
+access modifier
+
+1.public (project level)
+	can be used anywhere in the project.
+	
+2.private (class level)
+ 	can be accessible only in that class level.---same class only---
+ 	
+3.default (package level)
+	can be accessed in package level
+
+4.protected (package level)
+	can come only when use inheritance concepts

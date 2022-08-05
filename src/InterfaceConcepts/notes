@@ -1,0 +1,25 @@
+INTERFACE CONCEPTS
+
+:::::::::::functions in atm machine:::OPTIONS:::::::::::CUSTOMERS
+1.login
+2.withdraw
+3.check balance
+4.deposit
+5.print statement
+
+::::::::::::::activities for login:::::::::::::IMPLEMENTATION::::::::::::DEVELOPERS
+1. insert atm card in machine
+2. enter valid pin number
+3. press enter button
+4. connect to server
+5. check if pin number exists
+6.if pin number exists--login
+7.if pin number doesnot exists then error message.
+
+
+::::::Selenium webdriver::::::::::::::CUSTOMERS:::::::::::::::
+openApplication();
+closeApplication();
+getAppTitle();
+enterValue();
+clickButton();
